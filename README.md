@@ -31,7 +31,7 @@ Explore some of my projects that demonstrate my technical and cybersecurity expe
 - **Skills Used**: 
 - [View Project on GitHub](link-to-project-repo)
 
-### **[SOC Analyst Lab - Vishing Case Study](https://github.com/YOUR-USERNAME/SOC-Analyst-Hands-on-Lab)**
+### ](https://github.com/arthur8-source/Wireshark-Network-Analysis.git)]
   This repository – a deep dive into vishing fraud and mobile money abuse in Ghana.
 ---
 
