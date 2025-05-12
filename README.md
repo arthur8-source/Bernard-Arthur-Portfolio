@@ -23,8 +23,9 @@ Explore some of my projects that demonstrate my technical and cybersecurity expe
 ### 🔒 **Project Alpha: SOC-Analayst-Hands-on-Lab**
 - **Description**: 
 - **Skills Used**: Threat intelligence, Python, Wireshark.
-- [View Project on GitHub]([(](https://github.com/arthur8-source/SOC-Analayst-Hands-on-Lab.git))
-
+- [View Project on GitHub]([(https://github.com/arthur8-source/SOC-Analayst-Hands-on-Lab.git)]
+- [
+](https://github.com/arthur8-source/SOC-Analayst-Hands-on-Lab.git)]
   ### 💾 **Project Beta: Traffic Analyser**
 - **Description**: 
 - **Skills Used**: 
