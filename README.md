@@ -3,13 +3,14 @@
 
 Hi there! I'm an experienced **Help Desk Technical Support Officer** turned **cybersecurity professional**, and I’m on a mission to safeguard digital landscapes. With a combination of hands-on experience and industry-recognized certifications, I specialize in tackling technical challenges and securing systems against emerging threats.
 
-## 🎯 About Me
+##  About Me
 
-With a background as a **Help Desk Technical Support Officer**, I bring robust technical expertise to the table. I’ve resolved complex IT issues and ensured smooth operations for organizations, specializing in tools like **Azure**, **Intune**, **Exchange**, and **Entra ID**. My journey into cybersecurity is fueled by a desire to protect systems and data, and my industry credentials speak to my dedication:
+With a background as a **Help Desk Technical Support Officer**, I bring robust technical expertise to the table. I’ve resolved complex IT issues and ensured smooth operations for organizations, specializing in tools like **Azure**, **Wireshark**, **Splunk**, and **Entra ID**. My journey into cybersecurity is fueled by a desire to protect systems and data, and my industry credentials speak to my dedication:
 
-- 🛡️ **IBM Cybersecurity Analyst Certification**: Gained critical skills in threat intelligence, incident response, and vulnerability management.
-- 🛡️ **Google Cybersecurity Professional Certificate**: Strengthened my ability to identify threats and implement robust security measures.
-- 🛡️ **CompTIA Security+ Certification**: Validated my knowledge of core security principles, access management, and risk mitigation.
+-  **IBM Cybersecurity Analyst Certification**: Gained critical skills in threat intelligence, incident response, and vulnerability management.
+-  **Google Cybersecurity Professional Certificate**: Strengthened my ability to identify threats and implement robust security measures.
+-  **CompTIA Security+ Certification**: Validated my knowledge of core security principles, access management, and risk mitigation.
+-  **Microsoft AZ 104 Certification in progress**
 
 I thrive on solving problems with analytical precision and persistence, and I’m passionate about leveraging my expertise to contribute to the safety of digital ecosystems.
 
@@ -19,21 +20,18 @@ I thrive on solving problems with analytical precision and persistence, and I’
 
 Explore some of my projects that demonstrate my technical and cybersecurity expertise:
 
-### 🔒 **Project Alpha: Port Scanner**
+### 🔒 **Project Alpha: SOC-Analayst-Hands-on-Lab**
 - **Description**: 
 - **Skills Used**: Threat intelligence, Python, Wireshark.
-- [View Project on GitHub]([[Conduct Security Audit.md]([)]([)](https://github.com/arthur8-source/Conduct-Security-Audit.git)
+- [View Project on GitHub]([(](https://github.com/arthur8-source/SOC-Analayst-Hands-on-Lab.git))
 
   ### 💾 **Project Beta: Traffic Analyser**
 - **Description**: 
 - **Skills Used**: 
 - [View Project on GitHub](link-to-project-repo)
 
-### 🛡️ **Project Gamma: SSL Cert Checker**
-- **Description**: 
-- **Skills Used**: 
-- [View Project on GitHub](link-to-project-repo)
-
+### **[SOC Analyst Lab - Vishing Case Study](https://github.com/YOUR-USERNAME/SOC-Analyst-Hands-on-Lab)**
+  This repository – a deep dive into vishing fraud and mobile money abuse in Ghana.
 ---
 
 ## 🌟 Career Highlights
